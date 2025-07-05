@@ -7,7 +7,8 @@ namespace MCRPE_source_code
         static void Main(string[] args)
         {
             Console.Title = "Minecraft: RePocket Edition - Classic v0.0.1 (DEV)";
-            
+            Console.ForegroundColor = ConsoleColor.DarkGreen;
+
             Console.WriteLine("Hello World!");
             Console.ReadKey();
         }
