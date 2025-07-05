@@ -6,8 +6,10 @@ namespace MCRPE_source_code
     {
         static void Main(string[] args)
         {
+            Console.Title = "Minecraft: RePocket Edition - Classic v0.0.0 (DEV)";
+            
             Console.WriteLine("Hello World!");
-            Console.Read();
+            Console.ReadKey();
         }
     }
 }
