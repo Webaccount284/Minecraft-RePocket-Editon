@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MCRPE Source Code")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5f1eefb692473b9e1906c4f28f67e221f69674b0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a86db62143c9dc3c43e13da993288e4d6b1d6f97")]
 [assembly: System.Reflection.AssemblyProductAttribute("MCRPE Source Code")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MCRPE Source Code")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
