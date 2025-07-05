@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "MCRPE Source Code/1.0.0": {
+        "runtime": {
+          "MCRPE Source Code.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MCRPE Source Code/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
