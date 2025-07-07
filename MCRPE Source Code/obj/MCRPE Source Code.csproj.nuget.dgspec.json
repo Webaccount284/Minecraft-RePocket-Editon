@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\webhe\\Documents\\GitHub\\Minecraft-RePocket-Editon\\MCRPE Source Code\\MCRPE Source Code.csproj": {}
+    "C:\\Users\\webhe\\Documents\\GitHub\\Minecraft-RePocket-Editon\\MCRPE Source Code\\MCRPE Source Code.csproj": {}
   },
   "projects": {
-    "c:\\Users\\webhe\\Documents\\GitHub\\Minecraft-RePocket-Editon\\MCRPE Source Code\\MCRPE Source Code.csproj": {
+    "C:\\Users\\webhe\\Documents\\GitHub\\Minecraft-RePocket-Editon\\MCRPE Source Code\\MCRPE Source Code.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\webhe\\Documents\\GitHub\\Minecraft-RePocket-Editon\\MCRPE Source Code\\MCRPE Source Code.csproj",
+        "projectUniqueName": "C:\\Users\\webhe\\Documents\\GitHub\\Minecraft-RePocket-Editon\\MCRPE Source Code\\MCRPE Source Code.csproj",
         "projectName": "MCRPE Source Code",
-        "projectPath": "c:\\Users\\webhe\\Documents\\GitHub\\Minecraft-RePocket-Editon\\MCRPE Source Code\\MCRPE Source Code.csproj",
+        "projectPath": "C:\\Users\\webhe\\Documents\\GitHub\\Minecraft-RePocket-Editon\\MCRPE Source Code\\MCRPE Source Code.csproj",
         "packagesPath": "C:\\Users\\webhe\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\webhe\\Documents\\GitHub\\Minecraft-RePocket-Editon\\MCRPE Source Code\\obj\\",
+        "outputPath": "C:\\Users\\webhe\\Documents\\GitHub\\Minecraft-RePocket-Editon\\MCRPE Source Code\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\webhe\\AppData\\Roaming\\NuGet\\NuGet.Config"
