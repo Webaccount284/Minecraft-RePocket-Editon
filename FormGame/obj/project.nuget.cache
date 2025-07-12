@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iyomSy9kpg0=",
+  "dgSpecHash": "CaQxwCD87Qg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\webhe\\Documents\\GitHub\\3D-engine-with-monogame\\FormGame\\FormGame.csproj",
+  "projectFilePath": "C:\\Users\\webhe\\Documents\\GitHub\\Minecraft-RePocket-Editon\\FormGame\\FormGame.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\webhe\\.nuget\\packages\\libuv\\1.9.1\\libuv.1.9.1.nupkg.sha512",
     "C:\\Users\\webhe\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\1.1.0\\microsoft.codeanalysis.analyzers.1.1.0.nupkg.sha512",
