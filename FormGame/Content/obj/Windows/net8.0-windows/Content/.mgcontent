@@ -4,7 +4,7 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Users/webhe/Documents/GitHub/3D-engine-with-monogame/FormGame/Content/texturesheet.bmp</File>
+    <File>C:/Users/webhe/Documents/GitHub/Minecraft-RePocket-Editon/FormGame/Content/texturesheet.png</File>
   </SourceFiles>
   <DestFiles>
     <File xsi:nil="true" />
