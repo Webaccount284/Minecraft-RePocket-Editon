@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FormGame")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d9c6d8efc0ba9982edeacf34db41bdec3fbb200")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e550c822a65347d2b107d4654d60e48b72b20ce7")]
 [assembly: System.Reflection.AssemblyProductAttribute("FormGame")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FormGame")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
