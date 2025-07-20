@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\webhe\\Documents\\GitHub\\Minecraft-RePocket-Editon\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{84DAB540-099A-4EF3-AE77-57F83869DACC}|FormGame\\FormGame.csproj|c:\\users\\webhe\\documents\\github\\minecraft-repocket-editon\\formgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84DAB540-099A-4EF3-AE77-57F83869DACC}|FormGame\\FormGame.csproj|solutionrelative:formgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84DAB540-099A-4EF3-AE77-57F83869DACC}|FormGame\\FormGame.csproj|c:\\users\\webhe\\documents\\github\\minecraft-repocket-editon\\formgame\\content\\content.mgcb||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{84DAB540-099A-4EF3-AE77-57F83869DACC}|FormGame\\FormGame.csproj|solutionrelative:formgame\\content\\content.mgcb||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84DAB540-099A-4EF3-AE77-57F83869DACC}|FormGame\\FormGame.csproj|c:\\users\\webhe\\documents\\github\\minecraft-repocket-editon\\formgame\\content\\obj\\windows\\net8.0-windows\\content\\texturesheet.mgcontent||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{84DAB540-099A-4EF3-AE77-57F83869DACC}|FormGame\\FormGame.csproj|solutionrelative:formgame\\content\\obj\\windows\\net8.0-windows\\content\\texturesheet.mgcontent||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{84DAB540-099A-4EF3-AE77-57F83869DACC}|FormGame\\FormGame.csproj|c:\\users\\webhe\\documents\\github\\minecraft-repocket-editon\\formgame\\world.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84DAB540-099A-4EF3-AE77-57F83869DACC}|FormGame\\FormGame.csproj|solutionrelative:formgame\\world.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,39 +26,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "texturesheet.mgcontent",
-              "DocumentMoniker": "C:\\Users\\webhe\\Documents\\GitHub\\Minecraft-RePocket-Editon\\FormGame\\Content\\obj\\Windows\\net8.0-windows\\Content\\texturesheet.mgcontent",
-              "RelativeDocumentMoniker": "FormGame\\Content\\obj\\Windows\\net8.0-windows\\Content\\texturesheet.mgcontent",
-              "ToolTip": "C:\\Users\\webhe\\Documents\\GitHub\\Minecraft-RePocket-Editon\\FormGame\\Content\\obj\\Windows\\net8.0-windows\\Content\\texturesheet.mgcontent",
-              "RelativeToolTip": "FormGame\\Content\\obj\\Windows\\net8.0-windows\\Content\\texturesheet.mgcontent",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABpAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-07-12T17:48:06.357Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Content.mgcb",
-              "DocumentMoniker": "C:\\Users\\webhe\\Documents\\GitHub\\Minecraft-RePocket-Editon\\FormGame\\Content\\Content.mgcb",
-              "RelativeDocumentMoniker": "FormGame\\Content\\Content.mgcb",
-              "ToolTip": "C:\\Users\\webhe\\Documents\\GitHub\\Minecraft-RePocket-Editon\\FormGame\\Content\\Content.mgcb",
-              "RelativeToolTip": "FormGame\\Content\\Content.mgcb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-07-12T17:47:30.574Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\webhe\\Documents\\GitHub\\Minecraft-RePocket-Editon\\FormGame\\Program.cs",
-              "RelativeDocumentMoniker": "FormGame\\Program.cs",
-              "ToolTip": "C:\\Users\\webhe\\Documents\\GitHub\\Minecraft-RePocket-Editon\\FormGame\\Program.cs",
-              "RelativeToolTip": "FormGame\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Title": "World.cs",
+              "DocumentMoniker": "C:\\Users\\webhe\\Documents\\GitHub\\Minecraft-RePocket-Editon\\FormGame\\World.cs",
+              "RelativeDocumentMoniker": "FormGame\\World.cs",
+              "ToolTip": "C:\\Users\\webhe\\Documents\\GitHub\\Minecraft-RePocket-Editon\\FormGame\\World.cs",
+              "RelativeToolTip": "FormGame\\World.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCQAAACdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-12T16:25:35.787Z",
+              "WhenOpened": "2025-07-20T18:22:59.136Z",
               "EditorCaption": ""
             }
           ]
