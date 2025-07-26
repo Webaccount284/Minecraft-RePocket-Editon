@@ -3,6 +3,7 @@ RePocket Edition is a planned recreation of Minecraft: Pocket Edition Alpha v0.8
 
 These features are planned and will be added over time. So far however, the project has just begun.
 I also have gotten permission from @Good (the creator of ClassiCube's textures) to use them for this project, as long as I give credit, which I am doing right now.
+Although keep in mind, the project isn't related to ClassiCube in anyway apart from that.
 <img width="957" height="566" alt="image" src="https://github.com/user-attachments/assets/c1f3188c-aca4-43f8-bbeb-19668829f105" />
 
 THIS IS NOT AN OFFICIAL MINECRAFT PRODUCT and NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT.
